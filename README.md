@@ -6,7 +6,7 @@ Esses sao alguns Exercicios que eu resolvi fazer em python para poder aprender m
         - Descobir se um numero e par ou impar;
         - Descobir se um numero e positivo ou negativo;
         - Calular media;
-        - Descobir se dois numeros sao multiplos entre si; https://www.beecrowd.com.br/repository/UOJ_1044.html
+        - Descobir se dois numeros sao multiplos entre si; (https://www.beecrowd.com.br/repository/UOJ_1044.html)
         - Descobir a diferenca entre quatro numeros (A*B)-(C*D); (https://www.beecrowd.com.br/repository/UOJ_1007.html)
         - Descobir a area de um circulo; (https://www.beecrowd.com.br/repository/UOJ_1002.html)
         - Descobir o valor total de uma compra; (https://www.beecrowd.com.br/repository/UOJ_1038_en.html)
