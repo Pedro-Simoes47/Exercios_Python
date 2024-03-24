@@ -13,5 +13,6 @@ Esses sao alguns Exercicios que eu resolvi fazer em python para poder aprender m
         - Descobir qual intervalo o numero se encontra; (https://www.beecrowd.com.br/repository/UOJ_1037.html)
         - Descobir em qual quadrante os numeros se encontram; (https://www.beecrowd.com.br/repository/UOJ_1041.html)
         - Calular o valor do imposto de renda a ser pago; (https://www.beecrowd.com.br/repository/UOJ_1051.html)
+        - Calcular a media ponderada; (https://resources.beecrowd.com/repository/UOJ_1040.html)
 
 ### Pretendo fazer muitos outros exercicios e comittar nesse repositorio.
