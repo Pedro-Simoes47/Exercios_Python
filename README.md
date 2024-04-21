@@ -15,6 +15,7 @@ Alguns desses exercicios sao do site beecrowd:
 - [Calcular o valor do imposto de renda a ser pago](https://www.beecrowd.com.br/repository/UOJ_1051.html)
 - [Calcular a Area do trapezio ou o Perimetro do triangulo](https://resources.beecrowd.com/repository/UOJ_1043.html)
 - [Calcular a media ponderada](https://resources.beecrowd.com/repository/UOJ_1040.html)
+- [Calculadora super simples do canal Bro Code](https://www.youtube.com/watch?v=BX6_YBPr7Jw&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&index=7&ab_channel=BroCode)
 
 
 Outros sao do aplicativo do Sololearn!
