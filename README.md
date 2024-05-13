@@ -16,7 +16,8 @@ Alguns desses exercicios sao do site beecrowd:
 - [Calcular a Area do trapezio ou o Perimetro do triangulo](https://resources.beecrowd.com/repository/UOJ_1043.html)
 - [Calcular a media ponderada](https://resources.beecrowd.com/repository/UOJ_1040.html)
 - [Calculadora super simples do canal Bro Code](https://www.youtube.com/watch?v=BX6_YBPr7Jw&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&index=7&ab_channel=BroCode)
-
+- [Descubra o Tipo do Triangulo](https://resources.beecrowd.com/repository/UOJ_1045.html)
+- [Descubra a Duracao de um jogo](https://resources.beecrowd.com/repository/UOJ_1046.html)
 
 Outros sao do aplicativo do Sololearn!
 
