@@ -2,6 +2,8 @@
 
 Esses sao alguns Exercicios que eu resolvi fazer em python para poder aprender mais sobre a sintaxe da linguagem.
 
+Na pasta Desafio_Codigo_DIO ira ter as resolucoes dos desafios de codigo da DIO que eu fiz. 
+
 Alguns desses exercicios sao do site beecrowd:
 - [Descobrir se um número é par ou ímpar](https://www.beecrowd.com.br/repository/UOJ_1042.html)
 - [Descobrir se um número é positivo ou negativo](https://www.beecrowd.com.br/repository/UOJ_1043.html)
@@ -18,6 +20,7 @@ Alguns desses exercicios sao do site beecrowd:
 - [Calculadora super simples do canal Bro Code](https://www.youtube.com/watch?v=BX6_YBPr7Jw&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&index=7&ab_channel=BroCode)
 - [Descubra o Tipo do Triangulo](https://resources.beecrowd.com/repository/UOJ_1045.html)
 - [Descubra a Duracao de um jogo](https://resources.beecrowd.com/repository/UOJ_1046.html)
+- [Descubra a Duracao de um jogo com minutos](https://resources.beecrowd.com/repository/UOJ_1047.htmll)
 
 Outros sao do aplicativo do Sololearn!
 
