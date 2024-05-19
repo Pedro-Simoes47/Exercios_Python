@@ -20,7 +20,7 @@ Alguns desses exercicios sao do site beecrowd:
 - [Calculadora super simples do canal Bro Code](https://www.youtube.com/watch?v=BX6_YBPr7Jw&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&index=7&ab_channel=BroCode)
 - [Descubra o Tipo do Triangulo](https://resources.beecrowd.com/repository/UOJ_1045.html)
 - [Descubra a Duracao de um jogo](https://resources.beecrowd.com/repository/UOJ_1046.html)
-- [Descubra a Duracao de um jogo com minutos](https://resources.beecrowd.com/repository/UOJ_1047.htmll)
+- [Descubra a Duracao de um jogo com minutos](https://resources.beecrowd.com/repository/UOJ_1047.html)
 
 Outros sao do aplicativo do Sololearn!
 
